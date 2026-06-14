@@ -28,7 +28,7 @@ This is a fun and harmless Fake Hacking Simulator built using Python and Tkinter
 Clone the repository:
 
 ```bash
-git clone https://github.com/kaviya-source/Fake-Hacking-Simulator.git
+https://github.com/kaviya-source/Fake-Hacking-Simulator-Tkinter-.git
 ```
 
 Move into the project folder:
