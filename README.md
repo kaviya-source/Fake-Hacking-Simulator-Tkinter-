@@ -63,11 +63,6 @@ It does not perform any real hacking or unauthorized access.
 - Python
 - Tkinter
 
-  ## ⚠️ Disclaimer
-
-This project is created solely for fun and educational purposes.
-It does not hack computers, steal data, or perform any malicious activity.
-
 ## 📂 Project Structure
 
 ```text
