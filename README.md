@@ -42,6 +42,10 @@ Run the program:
 ```bash
 python "python prank.py"
 ```
+```bash
+python 'python prank 2.py"
+```
+
 ## ▶️ How to Use
 
 1. Download or clone the project.
