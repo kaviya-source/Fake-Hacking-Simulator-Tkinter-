@@ -53,15 +53,15 @@ python 'python prank 2.py"
 3. Watch the fake hacking simulation.
 4. Enjoy the prank with your friends!
 
-## ⚠️ Disclaimer
-
-This project is created purely for fun and educational purposes.
-It does not perform any real hacking or unauthorized access.
-
 ## 🛠️ Built With
 
 - Python
 - Tkinter
+
+## ⚠️ Disclaimer
+
+This project is created purely for fun and educational purposes.
+It does not perform any real hacking or unauthorized access.
 
 ## 📂 Project Structure
 
