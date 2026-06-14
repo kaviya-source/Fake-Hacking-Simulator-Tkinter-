@@ -1,4 +1,12 @@
 # Fake-Hacking-Simulator-Tkinter-
+
+# 🖥️ Fake Hacking Simulator
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![GitHub stars](https://img.shields.io/github/stars/kaviya-source/Fake-Hacking-Simulator-Tkinter-?style=social)
+
 ## About
 
 We all like pranking our friends sometimes! 😄
