@@ -63,17 +63,6 @@ python 'python prank 2.py"
 This project is created purely for fun and educational purposes.
 It does not perform any real hacking or unauthorized access.
 
-## 📂 Project Structure
-
-```text
-Fake-Hacking-Simulator/
-│
-├── python prank.py
-├── python prank 2.py
-├── README.md
-├── LICENSE
-└── .gitignore
-```
 
 ## ⭐ Support
 
